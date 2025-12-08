@@ -18,6 +18,7 @@ This repository demonstrates skills in:
 - Reusable, scalable IaC practices
 
 ## Repository Structure
+```
 .
 ├── deploy
 │   ├── main.tf
@@ -36,7 +37,7 @@ This repository demonstrates skills in:
     ├── storage_account
     ├── virtual_machine
     └── virtual_network
-
+```
 ## Key Directories
 
 1. modules/
@@ -70,4 +71,5 @@ This allows you to plan and apply from env/ without changing module paths.
 
 - erraform v1.3+
 - Azure CLI installed and authenticated
+
 - Sufficient permissions on Azure Subscription
