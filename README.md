@@ -69,7 +69,6 @@ This allows you to plan and apply from env/ without changing module paths.
 
 ## Prerequisites
 
-- erraform v1.3+
+- Terraform v1.3+
 - Azure CLI installed and authenticated
-
 - Sufficient permissions on Azure Subscription
