@@ -14,7 +14,7 @@
     The Resource Group where the restored VM will be placed.
 
 .PARAMETER TargetVMSuffix
-    The suffix to append to the restored VM name (e.g., "-DR", "-WestUS"). Default is "-DR".
+    The suffix to append to the restored VM name (e.g., "-DR"). Default is "-DR".
 #>
 [CmdletBinding()]
 param(
